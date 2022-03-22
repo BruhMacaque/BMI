@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="but1">COMPUTE BMI</string>
+    <string name="weight1">Your Weight</string>
+    <string name="weight2">Enter weight here</string>
+    <string name="height1">Your Height</string>
+    <string name="height2">Enter height here</string>
+</resources>
